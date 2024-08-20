@@ -17,7 +17,9 @@ Collaborative filtering is based on the assumption that people who agreed in the
 
 Content-based filtering methods are based on a description of the item and a profile of the user's preferences. These methods are best suited to situations where there is known data on an item (name, location, description, etc.), but not on the user. Content-based recommenders treat recommendation as a user-specific classification problem and learn a classifier for the user's likes and dislikes based on an item's features.
 
-#### Comparing the results : 
+#### Comparing the results :  
+
+If a user watches the movie 'Liar Liar'  then the  recomemendations that we could show :
 
 <div>
 
