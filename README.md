@@ -77,18 +77,7 @@ Content-based filtering methods are based on a description of the item and a pro
 ############################################################################### 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -149,18 +138,7 @@ Content-based filtering methods are based on a description of the item and a pro
 ################################################################# 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
